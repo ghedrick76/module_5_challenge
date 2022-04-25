@@ -1,0 +1,50 @@
+ 1012  jupyter lab
+ 1013  jupyter lab
+ 1014  cd ..
+ 1015  ls
+ 1016  cd w5c2
+ 1017  jupyter lab
+ 1018  cd ..
+ 1019  cd ..
+ 1020  cd challenges
+ 1021  git clone https://github.com/ghedrick76/module_5_challenge.git
+ 1022  cd module_5_challenge
+ 1023  git add .
+ 1024  git commit . -m "initial commit of starter files"
+ 1025  git push
+ 1026  git status
+ 1027  jupyter lab
+ 1028  git add .
+ 1029  git commit -m "total crypto wallet value calculated"
+ 1030  git push
+ 1031  jupyter lab
+ 1032  git add .
+ 1033  git commit . -m "added AGG and SPY dataframes, isolated close price"
+ 1034  git push
+ 1035  jupyter lab
+ 1036  git add .
+ 1037  git commit -m "full portfolio calculated"
+ 1038  git push
+ 1039  jupyter lab
+ 1040  git add .
+ 1041  git commit . -m "pie chart added for portfolio evaluation"
+ 1042  git push
+ 1043  cd ..
+ 1044  cd module_4_challenge
+ 1045  jupyter lab
+ 1046  ls
+ 1047  cd ..
+ 1048  ls
+ 1049  cd module_5_challenge
+ 1050  jupyter lab
+ 1051  git add .
+ 1052  git commit . -m "Monte Carlo simulation complete"
+ 1053  git push
+ 1054  jupyter lab
+ 1055  git add .
+ 1056  git commit . -m "retirement portfolio analyzed"
+ 1057  git push
+ 1058  jupyter lab
+ 1059  git add .
+ 1060  git commit . -m "analysis of portfolio weighting complete"
+ 1061  git push
